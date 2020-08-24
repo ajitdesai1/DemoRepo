@@ -4,6 +4,7 @@ public class HomePage {
 	
 	public void home() {
 		System.out.println("Home Page");
+		System.out.println("revert");
 	}
 
 }
